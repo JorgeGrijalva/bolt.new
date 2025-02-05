@@ -14,7 +14,7 @@ README.md
 .env
 *.local
 *.example
-
+.env.local
 # Ignore node modules, logs and cache files
 **/*.log
 **/node_modules
